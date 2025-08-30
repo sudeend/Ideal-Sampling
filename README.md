@@ -177,7 +177,8 @@ plt.show()
 ```
 # Output Waveform
 ```
-Attach the output waveform
+<img width="428" height="447" alt="image" src="https://github.com/user-attachments/assets/ed7d8b27-2e23-45ec-8dc0-25e98bcde4e8" />
+
 ```
 # Results
 ```
